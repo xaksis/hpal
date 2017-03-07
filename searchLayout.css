@@ -1,0 +1,87 @@
+#resultWrapper{
+	margin: 0px 0px 0px 0px; 
+	width: 100%;
+	height: 670px;
+	
+}
+
+#restResult{
+	float: left; 
+	border-right: 1px solid #b1aba5; 
+	min-height: 500px;
+}
+
+#dishResult{
+	float: left; 
+	margin-left: 10px;
+}
+
+#filtersWrapper{
+	margin:0px 0px 0px 22px;
+	width: 238px;
+	height: 260px;
+	/*border: 1px solid black;*/ 
+	overflow: hidden;
+}
+
+#filters{
+	/*border: 1px solid blue;*/
+	width: 239px;
+	background-image: url('./images/filtersBG3.png');
+	height: 224px;
+}
+
+#filterTab{
+	/*border: 1px solid green;*/
+	background-image: url('./images/filterLbl2.png');
+	margin-left: 122px;
+	width: 93px;
+	height: 25px;
+	
+}
+
+#filterBase{
+	height: 3px;
+	width: 237px;
+	background-image: url('./images/filterBase.png');
+}
+
+#tabLink{
+	display: block; 
+	height: 25px;
+	width: 93px; 
+	/*border: 1px solid blue;*/
+}
+
+.result{
+	width: 572px;
+	height: 98px;
+}
+
+#resultEven{
+	background-color: #F8F8F8;
+	border-bottom: 2px solid #A0A0A0; 
+}
+
+#resultOdd{
+	border-bottom: 2px solid #A0A0A0;
+}
+
+#searchPaging{
+	margin-top: 5px;
+	border-bottom: 2px solid #A0A0A0; 
+    padding-bottom: 5px;
+}
+
+#searchPaging a{
+	display: block;  
+	text-align: center; 
+	width: 30px;
+	height: 20px; 
+}
+
+#searchPaging span{
+	margin-top: 2px;
+	margin-left: 5px;
+}
+

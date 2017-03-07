@@ -1,0 +1,5 @@
+http://haplette.com/hp/home.php
+http://haplette.com/hp/favorite.php
+http://haplette.com/hp/search.php
+http://haplette.com/hp/restProfile.php
+http://haplette.com/hp/dishProfile.php

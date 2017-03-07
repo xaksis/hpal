@@ -1,0 +1,116 @@
+@charset "utf-8";
+/* CSS Document */
+#restaurant_info{
+	height: 150px;
+	width: 587px;
+	float: left;
+}
+
+#restInfo{
+	width: 283px;
+	height: 150px;
+	border-left: 1px solid grey;
+	border-top: 1px solid grey;
+}
+
+#rest_map{
+	float: left;
+	width: 300px;
+}
+
+#rmap{
+	margin-left: 10px;
+	height: 150px;
+	width: 97%;
+	border: 1px solid grey;
+}
+
+.thumbWrap{
+	margin-top: 2px;
+}
+
+.comment #userComment{
+	margin-top: 2px;
+}
+
+.comment {
+	height: 80px;
+	border-bottom: 1px solid #e1e1e1;
+}
+
+#commentsWrapper{
+	margin: 10px 0px 0px 10px;
+	height: 310px;
+}
+
+#menuWrap{
+	width: 570px;
+	height: 560px;
+}
+
+#menuTable{
+	border-collapse: collapse;
+	width: 100%;
+}
+
+#menuTable td{
+	vertical-align: top;
+	border-bottom: 1px solid #b1b1b1;
+}
+
+#main{
+	float: left;
+}
+
+#side{
+	float: left;
+	height: 890px;
+	width: 280px;
+	border-left: 1px solid grey;
+	border-top: 1px solid grey;
+	background-color: #66594e;
+	margin: 0px 0px 0px 0px; 
+}
+
+#sideMain{
+	height: 810px;
+}
+
+#nav_button{
+	/*border: 1px solid blue;*/
+	float: none;
+	margin: 0px;
+	padding: .1px;
+	height: 40px;
+	width: 280px;
+}
+
+#top_button_link{
+	display: block;
+	width: 162px;
+	height: 30px;
+	margin: 5px 0px 5px 59px;
+	background-image: url('./images/top_button_off.png');
+}
+
+#top_button_link span{
+	display: block;
+	width:162px;
+	height: 30px;
+	background-image: url('./images/top_button_on.png');
+}
+
+#bottom_button_link{
+	display: block;
+	width: 162px;
+	height: 30px;
+	margin: 5px 0px 5px 59px;
+	background-image: url('./images/bottom_button_off.png');
+}
+
+#bottom_button_link span{
+	display: block;
+	width: 162px;
+	height: 30px;
+	background-image: url('./images/bottom_button_on.png');
+}

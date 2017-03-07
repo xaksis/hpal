@@ -1,0 +1,14 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="1">
+            <File firstVisibleLine="54" xOffset="0" scrollWidth="968" startPos="300" endPos="300" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\hp\home.php" />
+            <File firstVisibleLine="3" xOffset="0" scrollWidth="1496" startPos="749" endPos="749" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\hp\favorite.php" />
+            <File firstVisibleLine="14" xOffset="0" scrollWidth="800" startPos="1519" endPos="1519" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\hp\header.php" />
+            <File firstVisibleLine="6" xOffset="0" scrollWidth="968" startPos="1339" endPos="1339" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\hp\restProfile.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="784" startPos="485" endPos="760" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\hp\rest_profile_stage.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="736" startPos="0" endPos="0" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\hp\update_stage.php" />
+            <File firstVisibleLine="353" xOffset="0" scrollWidth="448" startPos="5773" endPos="5782" selMode="0" lang="CSS" encoding="-1" filename="C:\wamp\www\hp\layout.css" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>

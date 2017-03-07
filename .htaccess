@@ -1,0 +1,14 @@
+RewriteEngine On
+
+RewriteCond %{THE_REQUEST} ^GET\s.+restProfile.+ [NC]
+RewriteCond %{QUERY_STRING} ^restId=(.+)
+RewriteRule ^restProfile\.php$ /hp/place/%1? [NE,R=301,NC]
+RewriteRule ^place/(.+)/?$ /hp/restProfile.php?restId=$1 [PT,NE]
+
+
+# to make `/path/index.php` to /path/
+RewriteCond %{THE_REQUEST} ^GET\s.+\.php [NC]
+RewriteRule ^([^/\.]+)\.php$ /hp/$1 [NE,R=301,L,NC]
+RewriteRule ^([^/\.]+)/?$ $1.php [L]
+
+
